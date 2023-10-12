@@ -13,7 +13,7 @@ a {
 }
 
 a:link {
-    color: yellowgreen;
+    color: rgb(170, 255, 0);
 }
 
 a:hover {
@@ -27,7 +27,7 @@ a:focus {
 }
 
 a:visited {
-    color: darkgreen;
+    color: rgb(0, 255, 0);
 }
 
 a:active {
