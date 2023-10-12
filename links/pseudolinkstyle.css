@@ -18,7 +18,7 @@ a:link {
 
 a:hover {
     box-shadow: 5px 5px 5px #888888;
-    background-color: rgb(136, 120, 156);
+    background-color: rgb(255, 255, 255);
 }
 
 a:focus {
