@@ -22,7 +22,7 @@ a:hover {
 }
 
 a:focus {
-    border-bottom: 1px solid rgb(71, 71, 126);
+    border-bottom: 1px solid rgb(255, 0, 0);
     background-color: lightblue;
 }
 
