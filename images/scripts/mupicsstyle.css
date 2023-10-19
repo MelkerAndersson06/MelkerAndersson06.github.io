@@ -1,0 +1,17 @@
+img{
+    width: 200px;
+    height: 195px;
+    float: none;
+}
+div{
+    float: left;
+    margin: 5px;
+    background-color: gold;
+    text-align: center;
+    float: left;
+    margin: 1px;
+    padding: 1px;
+}
+body{
+    background-color: goldenrod;
+}
