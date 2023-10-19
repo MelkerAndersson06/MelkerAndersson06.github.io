@@ -6,12 +6,12 @@ img{
 div{
     float: left;
     margin: 5px;
-    background-color: gold;
+    background-color: rgb(233, 207, 58);
     text-align: center;
     float: left;
     margin: 1px;
     padding: 1px;
 }
 body{
-    background-color: goldenrod;
+    background-color: rgb(38, 37, 39);
 }
