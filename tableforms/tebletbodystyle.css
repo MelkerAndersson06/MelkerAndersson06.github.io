@@ -1,32 +1,29 @@
-body {
-    background-color: rgb(224, 228, 32);
+body{
+    background-color: rgb(218, 248, 157);
 }
-
-thead,tbody {
-    background-color: #6aa9c4;
+thead,tbody,tfoot{
+    background-color: " rgb(218, 248, 157)";
 }
-
-caption {
-    padding: 10px;
+caption{
+    padding:10px;
 }
-
 table {
     border-collapse: collapse;
     border: 2px solid rgb(200, 200, 200);
     letter-spacing: 1px;
     font-family: sans-serif;
     font-size: 0.8rem;
-}
-
-td,
-th {
+  }
+  
+  td,
+  th {
     border: 1px solid rgb(190, 190, 190);
     padding: 5px 10px;
-}
-
-td {
+  }
+  
+  td {
     text-align: center;
-}
-thead{
+  }
+  thead{
     color:red;
-}
+  }
