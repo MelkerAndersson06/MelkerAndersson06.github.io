@@ -2,8 +2,7 @@ body {
     background-color: rgb(224, 228, 32);
 }
 
-thead,
-tfoot {
+thead,tbody {
     background-color: #6aa9c4;
     color: #fff;
 }
