@@ -4,7 +4,6 @@ body {
 
 thead,tbody {
     background-color: #6aa9c4;
-    color: #fff;
 }
 
 caption {
@@ -27,4 +26,7 @@ th {
 
 td {
     text-align: center;
+}
+thead{
+    color:red;
 }
