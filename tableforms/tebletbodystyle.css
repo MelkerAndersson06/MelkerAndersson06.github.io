@@ -1,2 +1,9 @@
-div
-border: solid;
+thead,
+tfoot {
+  background-color: #6aa9c4;
+  color: #fff;
+}
+
+tbody {
+  background-color: #a7bdc7;
+}
