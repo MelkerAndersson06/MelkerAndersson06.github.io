@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(66, 201, 255);
+}
+.roman{
+    list-style: upper-roman;
+}
+.none{
+    list-style: none;
+}
+ul{
+    list-style: square;
+    border: 2px solid rgb(252, 42, 42);
+    width: 500px;
+}
+ol{
+    border: 2px solid rgb(252, 42, 42);
+    width: 500px;
+}
+.Melkerwashere{
+    background-color: white;
+    color: purple;
+    list-style-type: none;
+    width: 500px;
+    border: 2px solid blue;
+}
