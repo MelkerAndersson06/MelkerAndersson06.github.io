@@ -4,7 +4,7 @@ legend{
 }
 fieldset{
     border: 1px solid rgb(0, 0, 0);
-    float: left;
+    position: center;
 }
 label{
     color: blue;
