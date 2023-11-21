@@ -8,7 +8,6 @@ tfoot{
     color: blue;
 }
 table{
-    box-shadow: 5px 5px black;
     border: 2px solid blue;
     border-collapse: collapse;
     text-align: center;
