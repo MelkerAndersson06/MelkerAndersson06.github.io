@@ -1,10 +1,10 @@
-fieldset{
-    margin: 5px;
-    padding: 5px;
-    border: 2px black solid;
-    width: 500px;
-}
 legend{
-    color: purple;
-    background-color: lightsalmon;
+    background-color: rgb(192, 248, 255);
+    color: rgb(192, 248, 255);
+}
+fieldset{
+    border: 1px solid rgb(0, 0, 0);
+}
+label{
+    color: blue;
 }
