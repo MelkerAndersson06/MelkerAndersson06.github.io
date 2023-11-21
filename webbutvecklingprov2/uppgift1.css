@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(218, 236, 49))
+}
+thead{
+    color: red;
+}
+tfoot{
+    color: blue;
+}
+table{
+    border: 2px solid blue;
+    border-collapse: collapse;
+    text-align: center;
+}
+td,th{
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px 20px;
