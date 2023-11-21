@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(218, 236, 49))
+    background-color: rgb(218, 236, 49)
 }
 thead{
     color: red;
@@ -15,3 +15,4 @@ table{
 td,th{
     border: 1px solid rgb(0, 0, 0);
     padding: 10px 20px;
+}
