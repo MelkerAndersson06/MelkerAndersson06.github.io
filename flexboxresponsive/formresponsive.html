@@ -7,10 +7,30 @@
     <title>Document</title>
 </head>
 <style>
-    .body{
-        background-color: turquoise;
-    }
+     body {
+                background-color: lightgreen;
+            }
+            .wrapper {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            }
+            .wrapper > li {
+                display: flex;
+                justify-content: space-between;
+            }
+             .wrapper > li > label {
+                flex: 400px;
+            }
+            .wrapper > li > input {
+                flex: 100%;
+            }
+            .wrapper > li:nth-child(4) {
+                display: flex;
+                justify-content: end;
+            }
 </style>
+
 <body>
     <form>
         <ul class="wrapper">
