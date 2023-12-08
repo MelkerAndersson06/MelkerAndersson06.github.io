@@ -4,31 +4,50 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Olles playhouse</title>
 </head>
 <style>
-     body {
-                background-color: lightgreen;
-            }
-            .wrapper {
-                list-style: none;
-                padding: 0;
-                margin: 0;
-            }
-            .wrapper > li {
-                display: flex;
-                justify-content: space-between;
-            }
-             .wrapper > li > label {
-                flex: 400px;
-            }
-            .wrapper > li > input {
-                flex: 100%;
-            }
-            .wrapper > li:nth-child(4) {
-                display: flex;
-                justify-content: end;
-            }
+    body {
+        background-color: lightgreen;
+        font-weight: bold;
+    }
+
+    .ul {
+        list-style-type: none;
+    }
+
+    .form-row {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    button {
+        background-color: lightblue;
+        border: 2px solid red;
+        color: white;
+        border-radius: 5px;
+    }
+
+    input,
+    label {
+        flex: 1;
+    }
+
+    label {
+        width: 20%;
+    }
+    @media screen and (min-width: 560px) and (max-width: 480px){ 
+        input
+    {
+        flex: 2;
+    }
+}
+    @media screen and (min-width: 860px) and (max-width: 480px) {
+        input
+    {
+        flex: 3;
+    }
+    }
 </style>
 
 <body>
